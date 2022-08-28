@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/security-site/static/css/main.0dcc406d.css",
+    "main.js": "/security-site/static/js/main.1529bbec.js",
+    "static/media/support.jpg": "/security-site/static/media/support.f38bd6356c6c690eb813.jpg",
+    "static/media/cyber-bg.png": "/security-site/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/security-site/index.html",
+    "main.0dcc406d.css.map": "/security-site/static/css/main.0dcc406d.css.map",
+    "main.1529bbec.js.map": "/security-site/static/js/main.1529bbec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dcc406d.css",
+    "static/js/main.1529bbec.js"
+  ]
+}
